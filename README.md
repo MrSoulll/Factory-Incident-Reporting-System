@@ -1,11 +1,10 @@
-# Fabrika Ariza Bildirim Sistemi
-# 🏭 Factory Incident Reporting System (FIRS)
+#  Factory Incident Reporting System (FIRS)
 
 An enterprise-grade, end-to-end incident management and tracking solution engineered for industrial manufacturing lines. Designed to bridge the operational gap between shop-floor operators and IT infrastructure support, the solution enables field personnel to report hardware malfunctions, network outages, and line stoppages with zero friction, while triggering real-time incident resolution workflows.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 In high-throughput manufacturing environments, unaddressed line stoppages directly translate into operational downtime and financial loss. The **Factory Incident Reporting System** eliminates manual reporting delays and paper-based tracking by introducing a centralized, low-latency digital pipeline:
 
@@ -15,7 +14,7 @@ In high-throughput manufacturing environments, unaddressed line stoppages direct
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 
 - **Operator-Friendly Interface:** Minimal-click, high-contrast canvas app optimized for touchscreens and mobile devices on the plant floor.
 - **Dynamic Severity & Escalation:** Automated priority tagging (Critical, High, Medium, Low) based on line impact and incident category.
@@ -25,7 +24,7 @@ In high-throughput manufacturing environments, unaddressed line stoppages direct
 
 ---
 
-## 🛠️ Architecture & Tech Stack
+##  Architecture & Tech Stack
 
 - **Frontend / Client:** Microsoft Power Apps (Canvas App) — Tailored for mobile devices, tablets, and shop-floor terminals.
 - **Workflow Automation:** Microsoft Power Automate — Cloud flows handling validation, notification routing, and automated escalation logic.
@@ -35,7 +34,7 @@ In high-throughput manufacturing environments, unaddressed line stoppages direct
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 1. **Failure Occurs:** A terminal, peripheral, network switch, or line hardware component malfunctions.
 2. **Report Logged:** The operator selects the factory zone, production line, issue category, and description via Power Apps.
